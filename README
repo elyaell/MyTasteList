@@ -1,0 +1,9 @@
+
+
+* IP of the running server in server/untitled/server.py
+if __name__ == '__main__':
+    app.run(debug=True, host="")
+	
+
+* IP of the running server in MyTasteListApp/app/src/main/java/com/example/livia/mytastelist/MainActivity.java
+    public static final String IP = "" ;

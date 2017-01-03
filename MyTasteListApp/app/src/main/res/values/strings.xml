@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">TasteMyList</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="already_seen">Films déjà vus</string>
+    <string name="search_by_genre">Recherche par genre</string>
+    <string name="search_by_user">Recommandation personnelle</string>
+    <string name="search_by_distance_one">Similaire à...</string>
+    <string name="search_by_distance_two">Similaire à... (2)</string>
+
+    <string name="action_settings">Options</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_search_by_genre">Recherche par genre</string>
+    <string name="title_activity_show_genre">Recherche par genre</string>
+    <string name="title_activity_random">Random</string>
+    <string name="title_activity_seen">Seen</string>
+    <string name="title_activity_recommandations">Recommandations</string>
+    <string name="title_activity_similar_to">SimilarTo</string>
+    <string name="title_activity_cold__start">Cold_Start</string>
+    <string name="title_activity_cold_start">cold_start</string>
+    <string name="title_activity_view_list">ViewList</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_distance_one">DistanceOne</string>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>
