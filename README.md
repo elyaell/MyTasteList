@@ -25,10 +25,17 @@ if __name__ == '__main__':
 
 ## Running 
 
-* Change the IP (see previous sections)
+* Change the IP (see previous section)
 * Launch the server
 * Deploy the application on the phone
 
+### About Algorithms
+
+The algorithms are available in the server/untitled folder. There's three of them : 
+
+* Cosinus similarity - algo_distance_cosinus.py
+* Tchebychev - algo_distance_chebychev.py
+* Distance between two users - algo_distance_user.py
 
 ## Built With
 
@@ -38,5 +45,5 @@ if __name__ == '__main__':
 ## Authors
 
 * ** Zakivax **	- *Initial work* - [Zakivax](https://github.com/zakivax)
-* ** FaithFeather ** - *Initial work* [FaithFeather](https://github.com/FaithFeather)
+* ** FaithFeather ** - *Initial work* - [FaithFeather](https://github.com/FaithFeather)
 
